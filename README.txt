@@ -15,3 +15,9 @@ Includes:
 Important:
 NJMVC does not publish its live question bank. These are original practice
 questions based on the official New Jersey CDL Manual and official test topics.
+
+
+Translation eye:
+- Every exam question now includes an eye button.
+- It reveals the full question and all four choices in the opposite language.
+- The translated A/B/C/D choices stay aligned with the active randomized order.
